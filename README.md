@@ -1,10 +1,13 @@
 # Customer Clustering using K-Means
 
-## Problem: Categorizing the information based on Amount spent.
+## Problem: 
+Categorizing the information based on Amount spent.
 
-## Dataset: Amount spent analysis and separate data as different category.
+## Dataset: 
+Amount spent analysis and separate data as different category.
 
-## Explore the data: Load the data and see the details such numbers of rows and columns & content.
+## Explore the data: 
+Load the data and see the details such numbers of rows and columns & content.
 
       Separate e zipping the dataset:
       Age = df['Age'].values
@@ -29,6 +32,6 @@ a curve on the graph.
 
 - Inertia (WCSS): It is the sum of squared distances of samples to their closest cluster center.
 
-## Fitting model to optimized K-value
+### Fitting model to optimized K-value
 
-## View the resulting graph
+### View the resulting graph

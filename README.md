@@ -1,7 +1,7 @@
 # Customer Clustering using K-Means
 
 ## Problem: 
-Categorizing the information based on Amount spent.
+Categorizing the information based on Amount income by Age.
 
 ## Dataset: 
 Amount spent analysis and separate data as different category.

@@ -3,16 +3,9 @@
 ## Problem: 
 Categorizing the information based on Amount income by Age.
 
-## Dataset: 
+## Objective: 
 Amount spent analysis and separate data as different category.
 
-## Explore the data: 
-Load the data and see the details such numbers of rows and columns & content.
-
-      Separate e zipping the dataset:
-      Age = df['Age'].values
-      Savings = df['Income'].values
-      X = np.array(list(zip(Age, Savings)))
 
 ## K-Means: 
 
@@ -31,8 +24,6 @@ number is adequate, the dispersion value decreases drastically, while if the num
 a curve on the graph.
 
 - Inertia (WCSS): It is the sum of squared distances of samples to their closest cluster center.
-
-### Fitting model to optimized K-value
 
 ### View the resulting graph
 ![kmeans](https://github.com/Riquinho93/Customer-Clustering-using-K-Means/blob/main/K-Means.png)

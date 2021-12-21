@@ -35,3 +35,4 @@ a curve on the graph.
 ### Fitting model to optimized K-value
 
 ### View the resulting graph
+![kmeans](https://github.com/Riquinho93/Customer-Clustering-using-K-Means/blob/main/K-Means.png)
